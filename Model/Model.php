@@ -6,15 +6,10 @@ class Model
 
     // // déclaration à distance
 
-     //const SERVER = "localhost";
-     //const USER = "root";
-     //const PASSWORD = "root";
-     //const BASE ="gestionClient";
-
-      const SERVER = "sqlprive-pc2372-001.privatesql.ha.ovh.net:3306";
-      const USER = "cefiidev908";
-      const PASSWORD = "hzc5JV62S";
-      const BASE ="cefiidev908";
+     const SERVER = "localhost";
+     const USER = "root";
+     const PASSWORD = "root";
+     const BASE ="gestionClient";
 
 
 
